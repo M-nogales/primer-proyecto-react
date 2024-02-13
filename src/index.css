@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.myDivClass{
+  background-color: #ae4343;
+}
+.myDivClass2{
+  background-color: #38b128;
+}
